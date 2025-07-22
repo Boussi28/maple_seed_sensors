@@ -19,7 +19,7 @@ Each design integrates:
 - A 3D-printed biodegradable body (PLA/PVA)
 - Colour-based pH sensing using flavin powder
 - Passive autorotation and dispersal, with no electronics
-- Image analysis and flight tracking using OpenCV and MATLAB
+- Image analysis and flight tracking using OpenCV
 
 
 # 3D model:
