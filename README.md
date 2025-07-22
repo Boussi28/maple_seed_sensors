@@ -51,3 +51,14 @@ Materials:
 # Printing Notes: 
 - Thin models make the prints delicate. Take care when removing from the bed. 
 - PVA filament is highly moisture sensitive. Ensure it is dry before use to prevent poor extrusion.
+
+  # Sample frames:
+  A set of example thresholded frames are included for demonstrating the tracking process:
+  <p align="center">
+  <img src="<img width="1920" height="1080" alt="frame_181" src="https://github.com/user-attachments/assets/f93d7379-73bf-4d49-96c8-f6573800c67e" />
+" width="30%">
+  <img src="<img width="1920" height="1080" alt="frame_188" src="https://github.com/user-attachments/assets/ea39b433-c4d8-4c46-ba7c-22b4794efd39" />
+" width="30%">
+  <img src="<img width="1920" height="1080" alt="frame_192" src="https://github.com/user-attachments/assets/8ba706d8-6675-4ba0-98ea-4acb44406660" />
+" width="30%">
+</p>
