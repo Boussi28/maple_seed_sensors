@@ -34,19 +34,19 @@ models replicate key morphological features such as:
 ![Maple seed CAD model](cad_model.jpg) 
 
 # 3D printing parameters:  
-Printer used: Bambulab P1P
-Slicer: Bambu Studio
+- Printer used: Bambulab P1P
+- Slicer: Bambu Studio
 Materials:
 - PLA (Bambulab, 1.75mm)
 - PVA (eSun, 1.75mm, water soluble)
 
 # Key print settings:
-Layer height: 0.05mm
-First layer height: 0.05mm
-Infill pattern: cubic
-Infill density: 20%
-Top / bottom pattern: concentric 
-Print orientation: flat (wing-down)
+- Layer height: 0.05mm
+- First layer height: 0.05mm
+- Infill pattern: cubic
+- Infill density: 20%
+- Top / bottom pattern: concentric 
+- Print orientation: flat (wing-down)
 
 # Printing Notes: 
 - Thin models make the prints delicate. Take care when removing from the bed. 
