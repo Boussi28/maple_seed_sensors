@@ -22,7 +22,7 @@ Each design integrates:
 - Image analysis and flight tracking using OpenCV
 
 
-# 3D model:
+# 3D model
 The maple seed inspired designs were modelled in Autodesk Fusion 360, using a spline-
 fitting method based on photographs of dried samaras collected around Bristol. The CAD 
 models replicate key morphological features such as:
@@ -33,14 +33,14 @@ models replicate key morphological features such as:
 
 ![Maple seed CAD model](cad_model.jpg) 
 
-# 3D printing parameters:  
+# 3D printing parameters  
 - Printer used: Bambulab P1P
 - Slicer: Bambu Studio
 Materials:
 - PLA (Bambulab, 1.75mm)
 - PVA (eSun, 1.75mm, water soluble)
 
-# Key print settings:
+# Key print settings
 - Layer height: 0.05mm
 - First layer height: 0.05mm
 - Infill pattern: cubic
@@ -48,6 +48,6 @@ Materials:
 - Top / bottom pattern: concentric 
 - Print orientation: flat (wing-down)
 
-# Printing Notes: 
+# Printing Notes
 - Thin models make the prints delicate. Take care when removing from the bed. 
 - PVA filament is highly moisture sensitive. Ensure it is dry before use to prevent poor extrusion.
