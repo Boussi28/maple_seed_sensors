@@ -49,5 +49,5 @@ Materials:
 - Print orientation: flat (wing-down)
 
 # Printing Notes
-- Thin models make the prints delicate. Take care when removing from the bed. 
-- PVA filament is highly moisture sensitive. Ensure it is dry before use to prevent poor extrusion.
+- These models are very thin, take care when removing from the bed. 
+- PVA filament is highly moisture sensitive, ensure it is dry before use to prevent poor extrusion.
