@@ -1,6 +1,6 @@
 # 🍁 Biodegradable maple seed inspired sensors for environmental monitoring
 
-This project explores the design, fabrication, and analysis of biodegradable, electronics-free sensors, inspired by the aerodynamic properties of maple seeds. These sensors are intended for distributed, low-cost environmental monitoring (e.g. pH detection) and are capable of passive wind dispersal.
+This repository explores the design, fabrication, and analysis of biodegradable, electronics-free sensors, inspired by the aerodynamic properties of maple seeds. These sensors are intended for distributed, low-cost environmental monitoring (e.g. pH detection) and are capable of passive wind dispersal.
 
 
 # Features
